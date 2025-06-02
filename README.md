@@ -47,7 +47,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width=40 height=40 />
   
           
-          
+   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ChristopherKaragiannidis&theme=transparent&hide_border=true" alt="GitHub Streak" /></a>       
     
           
           
