@@ -1,16 +1,25 @@
-## Hi there 👋
+---
+<div align="center"> 
+  
+  ### Καλωσήρθατε στο Profile μου
 
-<!--
-**ChristopherKaragiannidis/ChristopherKaragiannidis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  ---
+<div align="center"> 
 
-Here are some ideas to get you started:
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnU4cnZndWRqb3RkM2k0aWZsenF5MGtvazY1YXB4bXQweHVmNm56aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wcgn5fVDjvR7pdvz4C/giphy.gif" width=250 />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  </div>
+
+  <img alt="Static Badge" src="https://img.shields.io/badge/Linked%20In-blue" width=100>
+
+  </div>
+
+  <div align="center">
+
+  <img src="https://komarev.com/ghpvc/?username=ChristopherKaragiannidis&Style=flat-square&color=blue" width=250 alt=""/>
+
+   </div>
+   
+   ---
+
+   ---
