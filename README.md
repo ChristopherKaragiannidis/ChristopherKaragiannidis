@@ -1,7 +1,7 @@
 ---
 <div align="center"> 
   
-  ### Καλωσήρθατε στο Profile μου
+  ### Welcome to my Profile
 
   ---
 <div align="center"> 
@@ -20,6 +20,37 @@
 
    </div>
    
+   <div align="center"> 
+     
    ---
+   
+### About Me
 
    ---
+
+   </div>
+
+   - Website management experience for 12 years, in Word Press and Woo Commerce environment. 👨‍🎨
+
+   - Newbie in coding. 😄
+
+</div>
+
+⚙️Tools and Languages:
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width=40 height=40 />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/woocommerce/woocommerce-original-wordmark.svg" width=40 height=40 />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width=40 height=40 />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width=40 height=40 />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width=40 height=40 />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width=40 height=40 />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width=40 height=40 />
+  
+          
+          
+    
+          
+          
+                
+          
+</div>        
