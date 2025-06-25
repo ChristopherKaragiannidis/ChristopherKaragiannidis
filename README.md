@@ -9,6 +9,7 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnU4cnZndWRqb3RkM2k0aWZsenF5MGtvazY1YXB4bXQweHVmNm56aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wcgn5fVDjvR7pdvz4C/giphy.gif" width=250 />
 
  <div>
+   
   <a href="https://www.linkedin.com/in/karagiannidischristo-karagiannidis-611666369/" target="_blank">
   <img alt="Static Badge" src="https://img.shields.io/badge/Linked%20In-blue" width="100" />
 </a>
