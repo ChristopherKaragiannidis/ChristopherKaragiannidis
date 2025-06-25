@@ -12,10 +12,10 @@
 
   <a href="https://www.linkedin.com/in/karagiannidischristo-karagiannidis-611666369/" target="_blank">
     
-  <img alt="Static Badge" src="https://img.shields.io/badge/Linked%20In-blue" width=100 />
+  <img alt="Static Badge" src="https://img.shields.io/badge/Linked%20In-blue" width=100 /> </a>
   
-  </a>
   
+
   </div>
 
   <div align="center">
