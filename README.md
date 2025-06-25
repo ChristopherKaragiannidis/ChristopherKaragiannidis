@@ -10,9 +10,9 @@
 
   </div>
 
-  <a href="https://www.linkedin.com/in/karagiannidischristo-karagiannidis-611666369/" target="_blank">
+  <a href="https://www.linkedin.com/in/karagiannidischristo-karagiannidis-611666369/" target="_blank"> </a>
     
-  <img alt="Static Badge" src="https://img.shields.io/badge/Linked%20In-blue" width=100 /> </a>
+  <img alt="Static Badge" src="https://img.shields.io/badge/Linked%20In-blue" width=100 />
   
   
 
