@@ -59,11 +59,7 @@
    <a href="https://git.io/streak-stats">
   <img src="https://streak-stats.demolab.com?user=ChristopherKaragiannidis&theme=transparent&hide_border=true" alt="GitHub Streak" />
 </a>
-
-<a href="https://github.com/ChristopherKaragiannidis">
-  <img src="https://github.com/ChristopherKaragiannidis.png" alt="GitHub Profile" />
-</a>
-     
+ 
 
    ---
 
