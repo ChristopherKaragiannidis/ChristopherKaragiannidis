@@ -1,8 +1,7 @@
 ---
-<style=background-color:grey/>
 <div align="center" > 
   
-  ### Welcome to my Profile
+  ### <p style=backround-color:grey> Welcome to my Profile </p>
 
   ---
 <div align="center"> 
