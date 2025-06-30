@@ -1,5 +1,6 @@
 ---
-<div align="center" style=background-color:grey> 
+style=background-color:grey
+<div align="center" > 
   
   ### Welcome to my Profile
 
