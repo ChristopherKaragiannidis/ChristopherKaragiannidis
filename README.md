@@ -20,7 +20,7 @@
 
   <div align="center">
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ChristopherKaragiannidis)
+<img src="https://komarev.com/ghpvc/?username=ChristopherKaragiannidis&Style=flat-square&color=blue" width=250 alt=""/>
 
    </div>
    
