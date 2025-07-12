@@ -59,7 +59,7 @@
     
   <a href="https://github.com/ChristopherKaragiannidis">
     
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChristopherKaragiannidis&theme=transparent&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ChristopherKaragiannidis&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&currStreakNum=FF9D00&fire=FF9D00&sideNums=FF9D00&sideLabels=FF9D00&dates=828282&locale=en&exclude_days=Sun,Sat" alt="GitHub Streak" />
   
 </a>
 
