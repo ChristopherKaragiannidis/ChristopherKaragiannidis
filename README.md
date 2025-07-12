@@ -57,9 +57,10 @@
 
     🔥 My Stats
     
-   <a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=ChristopherKaragiannidis&theme=transparent&hide_border=true" alt="GitHub Streak" />
+   <a href="https://github.com/ChristopherKaragiannidis">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChristopherKaragiannidis&theme=transparent&hide_border=true" alt="GitHub Streak" />
 </a>
+
  
 
    
